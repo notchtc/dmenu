@@ -10,9 +10,9 @@ This is my simple personal build of https://tools.suckless.org/dmenu[dmenu].
 In order to build dmenu you need the Xlib header files.
 
 == Patches
-- https://tools.suckless.org/dmenu/patches/allow-color-font[Allow Color font]
 - https://tools.suckless.org/dmenu/patches/fuzzymatch[fuzzymatch]
 - https://tools.suckless.org/dmenu/patches/fuzzyhighlight[fuzzyhighlight]
+- https://tools.suckless.org/dmenu/patches/xresources-alt[xresources-alt]
 
 == Installation
 Clone the repository and enter the directory.
